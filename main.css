@@ -88,10 +88,10 @@ nav a {
 }
 .about .hero,
 .thank-you .hero {
-	background-image: url(images/holding-coffee@2x.jpg);
+	background-image: url(holding-coffee@2x.jpg);
 }
 .signup .hero {
-	background-image: url(images/coffee-bag@2x.jpg);
+	background-image: url(coffee-bag@2x.jpg);
 }
 main {
 	max-width: 850px;
